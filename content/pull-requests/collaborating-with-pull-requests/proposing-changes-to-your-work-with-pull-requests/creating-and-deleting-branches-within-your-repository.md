@@ -69,6 +69,7 @@ You can create a branch to work on an issue directly from the issue page and get
 ## Deleting a branch
 
 {% data reusables.pull_requests.automatically-delete-branches %}
+^^^ It seems the behaviour now is that GitHub will allow you do delete a branch, even if there is an open pull request. It will just close the PR.
 
 {% note %}
 
